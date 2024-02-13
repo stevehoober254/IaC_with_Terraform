@@ -1,6 +1,6 @@
 # Infrastructure as Code with Terraform
 
-Welcome to the Infrastructure as Code with Terraform repository! This repository showcases my expertise in using Terraform to provision and manage infrastructure as code.
+This repository follows best practices for organizing Terraform project, promoting modularity, reusability, and maintainability. Each environment is separated, allowing for independent management and configuration, while reusable modules encapsulate infrastructure components and promote consistency across environments.
 
 [Terraform](https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png)
 
