@@ -2,6 +2,8 @@
 
 Welcome to the Infrastructure as Code with Terraform repository! This repository showcases my expertise in using Terraform to provision and manage infrastructure as code.
 
+[Terraform](https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png)
+
 ## Project Overview
 
 This project demonstrates the provisioning of a scalable and resilient infrastructure on cloud platforms using Terraform. It follows best practices to ensure maintainability, scalability, and security of the infrastructure.
@@ -19,7 +21,7 @@ This project demonstrates the provisioning of a scalable and resilient infrastru
 
 To get started with this project, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/terraform-portfolio-project.git`
+1. **Clone the Repository**: `git clone https://github.com/your-username/IaC_with_Terraform.git`
 2. **Install Terraform**: Ensure Terraform is installed on your local machine. Refer to the [Terraform documentation](https://learn.hashicorp.com/tutorials/terraform/install-cli) for installation instructions.
 3. **Set Up Credentials**: Configure credentials for your cloud provider(s) according to the Terraform documentation.
 4. **Review Configuration**: Review the Terraform configuration files (`*.tf`) to understand the infrastructure resources and configurations.
